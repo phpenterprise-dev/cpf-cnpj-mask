@@ -1,6 +1,4 @@
-# Simple CPF and CNPJ input mask.
-
-![Azure Static Web Apps CI/CD](https://github.com/julianograms/react-cpf-cnpj-mask/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
+# Simple CPF and CNPJ input mask (Fixed).
 
 ![ttystrudio GIF](https://imgur.com/VA7PT8i.gif)
 
