@@ -1,0 +1,1 @@
+declare module ' @phpenterprise/cpf-cnpj-mask'
