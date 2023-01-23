@@ -1,6 +1,6 @@
 {
     "name": "@phpenterprise/cpf-cnpj-mask",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Simple input mask for brazilian CPF and CNPJ",
     "author": "phpenterprise",
     "main": "lib/index.js",

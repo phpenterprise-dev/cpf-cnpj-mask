@@ -1,1 +1,1 @@
-declare module ' @phpenterprise/cpf-cnpj-mask'
+declare module '@phpenterprise/cpf-cnpj-mask'
